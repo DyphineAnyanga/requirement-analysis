@@ -98,7 +98,8 @@ Use Case Diagrams are visual representations of user interactions with a system.
 - Serves as a reference during design and testing.
 
 
-https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=alx-booking-uc.png&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XA_LbfQl-Ty1aQiBuVTwXLPcKPhMBXEb%26export%3Ddownload
+
+![alx-booking-uc.png](https://github.com/user-attachments/assets/9b4fd522-075c-4da9-b37a-856f3cf1171d)
 
 
 ---
