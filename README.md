@@ -97,7 +97,8 @@ Use Case Diagrams are visual representations of user interactions with a system.
 - Enhances communication between stakeholders and developers.
 - Serves as a reference during design and testing.
 
-![alx-booking-uc png](https://github.com/user-attachments/assets/19de37e3-9c40-484c-a7b8-cc54efaf0f71)
+![alx-booking-uc](https://github.com/user-attachments/assets/31faee56-2cb8-4dbc-b3b7-728e3912c3c9)
+
 
 ---
 
